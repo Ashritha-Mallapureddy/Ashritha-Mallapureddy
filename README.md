@@ -15,7 +15,7 @@ M.Sc. student in supply chain management, in the second semester at SRH Universi
 | --- | --- | --- |
 | [PRO'FIT'EIN delivery KPIs](https://github.com/Ashritha-Mallapureddy/profitein-kpi-dashboard) | Operations & Supply Chain Manager, Hyderabad, Feb 2025 – Mar 2026. On-time meals, complaints, plan changes, and ingredient total cost. SQL is the definition of the KPI. | [View the dashboard](https://ashritha-mallapureddy.github.io/profitein-kpi-dashboard/) |
 | [Packaging and logistics KPIs](https://github.com/Ashritha-Mallapureddy/amazon-logistics-kpi-dashboard) | Procurement & Supply Chain Specialist, Amazon Hyderabad, Sep 2024 – Mar 2025. Shipment deviations, root cause, delivery reliability, and an EMEA document audit. | [View the dashboard](https://ashritha-mallapureddy.github.io/amazon-logistics-kpi-dashboard/) |
-| [Agentic supply chain digital twin](https://github.com/Ashritha-Mallapureddy/agentic-sc-digital-twin) | SRH project, 2026. A 16-week twin for forecast, disruption, service level, cost, and CO₂. | [View the decision memo](https://ashritha-mallapureddy.github.io/agentic-sc-digital-twin/) |
+| [Agentic CX desk](https://github.com/Ashritha-Mallapureddy/agentic-sc-digital-twin) | Customer promise and 2026 CBAM certificate cost. Steel, fertilisers, aluminium, cement and hydrogen, including the installations behind the invoice. | [Open the desk](https://ashritha-mallapureddy.github.io/agentic-sc-digital-twin/) |
 
 ## Experience
 
